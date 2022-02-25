@@ -1,5 +1,5 @@
 # DiscordMinecraftStatusBot
-Простой скрипт для отображения в статусе вашего бота онлайн вашего сервера майнкрафт
+A simple script to display your server's online status as a bot 
 
 
 # Install-Packages
