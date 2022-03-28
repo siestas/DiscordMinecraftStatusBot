@@ -1,7 +1,7 @@
 settings = {
-    'token': 'your token',
-    'ip': 'your ip (dont with port)',
-    'port': 'your port server',
+    'token': 'your bot token',
+    'ip': 'your ip (without port)',
+    'port': 'your server port',
     'prefix': '!',
     "time": 1
 }
