@@ -1,7 +1,7 @@
 settings = {
-    'token': 'NzEyMjI5MzExNTMyMjM2ODAw.XsOhPA.GY0HHCkctHKCt9Ndkd0bny3T2ZQ',
-    'ip': '130.61.150.55',
-    'port': '25566',
+    'token': 'your token',
+    'ip': 'your ip (dont with port)',
+    'port': 'your port server',
     'prefix': '!',
     "time": 1
 }
